@@ -20,7 +20,7 @@ col1.image(image_path, use_column_width=True, caption="Our First Proper Hug!!!")
 # Text on the right
 # Text on the right
 col2.write("""
-It was our first date, and we did all the things that typical couples do. We looked so perfect that day. You had never been to Victoria Memorial, and although I had been there a few times, going there with you is how I remember Victoria now. 
+It was our first "date" date, and we did all the things that typical couples do. We looked so perfect that day. You had never been to Victoria Memorial, and although I had been there a few times, going there with you is how I remember Victoria now. 
 
 We talked for hours; you made me a grass ring and placed a flower behind my ear. We joked about how we were making the family sitting in front of us uncomfortable, but at the end of the day, we didn't care. And then... and then we hugged.""")
 
